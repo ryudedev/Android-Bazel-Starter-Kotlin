@@ -1,1 +1,1 @@
-日比くんからもらったやつ
+# kotlin starter with bazel
